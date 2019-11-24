@@ -5,4 +5,4 @@ This is all public data, but currently only (easily) accessible in PDF
 decoded reports. Exploring alternatives.
 
 ------------------------------------------------------------------------
-copied
+Copied from Lauren 24 Nov 2019
